@@ -17,7 +17,7 @@ AI-powered insurance policy analyzer built for the Indian market.
 - Gmail SMTP
 
 ## Live Demo
-https://nc-sudhansu-policylens-ai.streamlit.app
+https://policylens-ai.streamlit.app/
 
 ## Run Locally
 1. Clone this repo
